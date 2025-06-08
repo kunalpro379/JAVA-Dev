@@ -1,0 +1,4 @@
+com\example\JournalApp\model\User.class
+com\example\JournalApp\Entity\JournalEntity.class
+com\example\JournalApp\controller\JounralEntryController.class
+com\example\JournalApp\JournalApp.class

@@ -1,0 +1,7 @@
+Map does not extend the collection interface
+Key charactaristics :
+key value pairs: each entry in a map consists of a key and a value
+Uniwue keys: No two entries can have the same key
+One value per key:  Each key maps to a single value
+Order : Some Implementations maintain insertion order
+(LinkedHashMap), natural order (TreeMap) or no order (HashMap)
