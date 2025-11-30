@@ -1,3 +1,3 @@
 ## Java Core & SpringBoot Notes
 
-- [Spring Boot Notes](spring-boot/README.md)
+- [Spring Boot Basics](SpringBoot_GetStarted/SpringNotes1.md)
