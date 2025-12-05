@@ -1,4 +1,4 @@
-# Spring Security In-Depth Guide
+# Spring Security
 
 Spring Boot integrates [Spring Security](https://spring.io/projects/spring-security), a powerful and customizable authentication and access-control framework. It provides robust security for web applications, REST APIs, and microservices.
 
@@ -686,3 +686,4 @@ security/
 **Tip:** Keep security code isolated for easier upgrades and testing!
 
 ---
+
