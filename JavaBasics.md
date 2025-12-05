@@ -1,6 +1,4 @@
-# Java Basics - Complete Guide
-
-## What is Java?
+## Java?
 
 Java is a high-level, object-oriented, platform-independent programming language developed by Sun Microsystems (now owned by Oracle). Java programs run on any device that has a JVM (Java Virtual Machine), making it "Write Once, Run Anywhere" (WORA).
 
