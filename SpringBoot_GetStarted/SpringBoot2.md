@@ -1,22 +1,4 @@
-# Spring Boot 2 - Complete In-Depth Guide
-
-## Table of Contents
-1. [Configuration](#configuration)
-2. [Spring Boot Starters](#spring-boot-starters)
-3. [Web Development](#web-development)
-4. [Data Access](#data-access)
-5. [Database Configuration](#database-configuration)
-6. [Validation](#validation)
-7. [Spring Boot Actuator](#spring-boot-actuator)
-8. [Caching](#caching)
-9. [Scheduling](#scheduling)
-10. [Async Processing](#async-processing)
-11. [Testing](#testing)
-12. [Logging](#logging)
-13. [Advanced Features](#advanced-features)
-
----
-
+# Spring Boot part 2
 ## Configuration
 
 ### application.properties vs application.yml
@@ -3311,3 +3293,4 @@ This guide covers the essential features of Spring Boot 2.x. For production appl
 - **Logging**: Implement proper logging for debugging and monitoring
 
 For more information, visit the [Spring Boot Official Documentation](https://spring.io/projects/spring-boot).
+
